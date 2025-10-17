@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+    background-color: hsl(252, 78%, 91%);
+    text-align: center;
+}
+h1 {
+    color: rgb(25, 1, 156);
+    
+}
+h1:hover  {text-decoration: underline; color: red;}
+
+
+img {
+    display: block;
+    width: 300px;
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {color:rgb(25, 1, 156);
+    
+}
+a:hover  {
+    text-decoration: underline;
+    color: red; 
+}
+a:visited {color: purple;
+}
+p {text-align: justify;}
+
+

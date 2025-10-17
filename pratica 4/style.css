@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+body {
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    color: rgb(28, 23, 24);
+    font-family: "imperial script", cursive;
+    font-weight: 400;
+
+}
+a:visited {
+    color: darkgreen;
+}
+a:hover {
+    text-decoration: none;
+    color: pink;
+}
