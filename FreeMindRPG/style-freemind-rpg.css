@@ -1,0 +1,94 @@
+
+
+body {
+    background-color: #CCB084;
+  }
+
+.banner {
+    background-image: url(pagina/fundo-logo-2.PNG);
+
+    height: 660px;    
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin-bottom: 0%;
+  }
+
+.navegação {
+    display: flex;
+    justify-content: center;
+   
+    padding: 10px;
+  }
+.botao-imagem {
+    background-image:url(pagina/botão-Photoroom-2.PNG);
+    background-size: cover;    
+    background-position: center; 
+    background-repeat: no-repeat;
+    
+    color:#290277;        
+    font-size: 13px;
+    font-weight: bold;
+    border: none;
+    padding: 12px 30px;
+    cursor: pointer;
+    transition: transform 0.2s, opacity 0.3s;
+    text-decoration: none;
+    margin-top: 15px;
+  }
+  
+  .botao-imagem:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+.busca-topo {
+    color:#290277;        
+    font-size: 13px;
+    font-weight: bold;
+    padding: 12px 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: transform 0.2s, opacity 0.3s;
+    text-decoration: none;
+    margin-top: 15px;
+    background-color: #E2B86D;
+    border: 2px solid 290277;
+    border-color:#290277;
+    margin-right: 10px;
+}
+.cadastro {
+    background-image:url(pagina/entre-cadastro.png);
+    background-position: center; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    border: none;
+    padding: 20px 66px;
+    cursor: pointer;
+    transition: transform 0.2s, opacity 0.3s;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+.cadastro:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+}
+.informativo {
+  background-image: url(pagina/madeira-2.JPG);
+  width: 1300px;    
+  background-position: center; 
+  background-repeat: no-repeat;
+  
+  
+}
+.titulo-principal {
+    color: #290277;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 30px;
+    position: center;
+    
+}
+
+
+
